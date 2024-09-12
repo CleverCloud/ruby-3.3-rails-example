@@ -1,1 +1,6 @@
-# ruby-3.3-rails-example
+# README
+
+```
+CC_RUBY_VERSION="3.3"
+RAILS_MASTER_KEY=
+```
